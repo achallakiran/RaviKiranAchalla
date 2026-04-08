@@ -5,7 +5,7 @@
 const CONFIG = {
 
   // 🔑 Replace with your Sarvam AI API key
-  SARVAM_API_KEY: "YOUR_SARVAM_API_KEY_HERE",
+  SARVAM_API_KEY: "sk_r89mssz9_SiQwz0Bp1X9kaupnaKo0wtBy",
 
   // 🤖 Model endpoint (Sarvam text-to-text)
   SARVAM_API_URL: "https://api.sarvam.ai/v1/chat/completions",
